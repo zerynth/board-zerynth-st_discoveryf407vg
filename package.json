@@ -1,0 +1,25 @@
+{
+    "dependencies": {
+        "sys.zerynth.armgcc": "r2.2.0",
+        "vhal.zerynth.armcmx_stm32f4": "r2.2.0"
+    },
+    "description": "Add support for ST Discovery BRD F407VG board",
+    "fullname": "board.zerynth.st_discoveryf407vg",
+    "git_pointer": "zerynth://zerynth-boards/st_discoveryf407vg",
+    "info": {
+        "board": "ST Discovery BRD F407VG",
+        "chip_manufacturer": "ST Microelectronics",
+        "device": "stm32f407",
+        "family_type": "ARM Cortex M4"
+    },
+    "keywords": [
+        "board",
+        "nucleo",
+        "stm",
+        "f407vg"
+    ],
+    "repo": "official",
+    "title": "ST Discovery BRD F407VG Support Package",
+    "version": "r2.2.0",
+    "whatsnew": "First Release"
+}
