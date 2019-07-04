@@ -1,0 +1,15 @@
+---
+description: Add support for ST Discovery BRD F407VG board
+fullname: board.zerynth.st_discoveryf407vg
+info:
+    board: ST Discovery BRD F407VG
+    chip_manufacturer: ST Microelectronics
+    device: stm32f407
+    family_type: ARM Cortex M4
+keywords:
+- board
+- nucleo
+- stm
+- f407vg
+title: ST Discovery BRD F407VG Support Package
+...
